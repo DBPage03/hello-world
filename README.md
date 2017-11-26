@@ -1,2 +1,3 @@
 # hello-world
-Hello World Project
+
+Hello, I'm DBPage03, I am just learning to program.
